@@ -1,0 +1,13 @@
+.body {
+    text-align: center;
+    margin: auto;
+    max-width: 1000px;
+}
+
+ul{
+    list-style-type: circle;
+    list-style-position:inside;
+}
+h1{
+    font-family: Georgia; 
+}
